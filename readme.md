@@ -23,7 +23,8 @@ query {
       description
     }
   }
-}```
+}
+```
 
 ### Get a Graph by company ###
 We can request data about a company and drill down to the users in it.
@@ -63,7 +64,8 @@ mutation {
       name
     }
   }
-}```
+}
+```
 
 ### Delete users ###
 Creates a delete request to eliminate a record.
